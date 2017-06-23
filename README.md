@@ -18,3 +18,5 @@ Current Features!
 - Authentic beeping!
 - Perfect for small screens!
 - And no microtransactions!
+
+This was created at HuskyHacks 2016 by Daniel Cohen, DJ Richardson, Michael Wong, and Sai Sujitha Venkatesan
